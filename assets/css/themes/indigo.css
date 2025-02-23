@@ -14,7 +14,7 @@
   --bio-text:99 102 241;
 }
 :is(.dark .dark\:text-white) {
-  color: rgb(99 102 241/var(--tw-text-opacity)) !important
+  color: rgb(85 85 91/var(--tw-text-opacity)) !important
 }
 
 :is(.dark .dark\:text-gray-300) {
