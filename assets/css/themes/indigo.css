@@ -14,6 +14,17 @@
   --bio-text:99 102 241;
 }
 :is(.dark .dark\:text-white) {
-  --tw-text-opacity: 1;
   color: rgb(99 102 241/var(--tw-text-opacity)) !important
+}
+
+:is(.dark .dark\:text-gray-300) {
+  color: rgb(85 85 91)!important;
+}
+
+.prose {
+  color: rgb(85 85 91)!important;
+}
+
+.prose :where(h2):not(:where([class~=not-prose],[class~=not-prose] *)) {
+  color: rgb(85 85 91)!important;
 }
