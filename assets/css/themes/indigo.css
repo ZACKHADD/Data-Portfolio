@@ -15,5 +15,5 @@
 }
 :is(.dark .dark\:text-white) {
   --tw-text-opacity: 1;
-  color: rgb(99 102 241/var(--tw-text-opacity))
+  color: rgb(99 102 241/var(--tw-text-opacity)) !important
 }
