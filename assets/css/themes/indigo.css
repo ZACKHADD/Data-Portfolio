@@ -13,6 +13,6 @@
   --color-primary-950: 30 27 75;
   --bio-text:99 102 241;
 }
-.dark{
+.dark\:text-white{
   color: rgb(99 102 241) !important; /*to change font color*/
  }
