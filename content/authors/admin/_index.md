@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Dat Engineer
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -33,6 +33,7 @@ profiles:
   - icon: at-symbol
     url: 'mailto:your-email@example.com'
     label: E-mail Me
+    color: black
 # - icon: brands/x
 #   url: https://twitter.com/GetResearchDev 
 # - icon: brands/instagram
