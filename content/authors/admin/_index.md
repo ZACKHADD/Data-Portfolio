@@ -40,7 +40,7 @@ profiles:
 #   url: https://www.instagram.com/
   - icon: brands/github
     url: https://github.com/gcushen
-  - icon: custom/linkedin-logo-svgrepo-com
+  - icon: custom/linkedin
     url: https://www.linkedin.com/
 # - icon: academicons/google-scholar
 #   url: https://scholar.google.com/
