@@ -14,6 +14,5 @@
   --bio-text:99 102 241;
 }
 .dark{
-  color: 99 102 241 !important; /*to change font color*/
-  background-color:#F48024; /*to change background color*/
+  color: rgb(99 102 241) !important; /*to change font color*/
  }
